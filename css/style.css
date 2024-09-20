@@ -399,7 +399,7 @@ a{
 
 
 /* Small devices (max-width: 480px) */
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 412px) {
     .container {
         max-width: 100%;
         padding: 20px;
