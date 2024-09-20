@@ -396,12 +396,7 @@ a{
 
 
 
-/* General container styles for all screen sizes */
-.container {
-    width: 100%;
-    padding: 20px; /* Default padding */
-    margin: 0 auto;
-}
+
 
 /* Small devices (max-width: 480px) */
 @media screen and (max-width: 480px) {
@@ -417,15 +412,25 @@ a{
 /* Tablets and small devices in landscape (min-width: 481px and max-width: 768px) */
 @media screen and (min-width: 481px) and (max-width: 768px) {
     .container {
-        max-width: 90%;
-        padding: 40px;
+        max-width: 100%;
+        padding: 20px;
+        margin: 2px;
+    }
+    p{
+        color: black;
+        font-weight: 500;
     }
     .main {
-        background-size: 100% 100%;
+        background-size: 40%;
+    }
+    .contact-me{
+       
+      margin: 6px;
+
+        padding-left: 4px;
     }
 }
 
-/* Medium devices (min-width: 769px and max-width: 991px) */
 @media (min-width: 769px) and (max-width: 991px) {
     .container {
         max-width: 720px;
