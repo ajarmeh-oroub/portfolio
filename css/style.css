@@ -410,7 +410,7 @@ a{
 @media screen and (max-width: 412px) {
     .container {
         max-width: 100%;
-        padding: 6px;
+        padding: 2px;
         margin-right: 1px;
         margin-left: 1px;
     }
@@ -453,7 +453,7 @@ a{
 @media screen and (min-width: 413px) and (max-width: 768px) {
     .container {
         max-width: 100%;
-        padding: 6px;
+        padding: 2px;
         margin-right: 1px;
         margin-left: 1px;
     }
