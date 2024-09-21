@@ -434,10 +434,10 @@ a{
     .img-proj{
         height: 100px;
     }
-    .skills {
-     
-        grid-column-gap: 4px;
-      
+    .what-can-offer {
+   
+        grid-column-gap: 2px;
+        grid-row-gap: 10px;
         }
         .header{
             padding: 4px;
@@ -480,10 +480,10 @@ a{
     .img-proj{
         height: 150px;
     }
-    .skills {
-     
-        grid-column-gap: 4px;
-      
+    .what-can-offer {
+   
+        grid-column-gap: 2px;
+        grid-row-gap: 10px;
         }
         .header{
             padding: 4px;
